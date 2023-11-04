@@ -1,0 +1,1 @@
+this s the text inside t2 file. Inserted this text phrase using nano command.

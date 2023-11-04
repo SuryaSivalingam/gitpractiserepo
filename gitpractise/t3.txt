@@ -1,0 +1,1 @@
+this is the text inside t3 text file. Inserting this text phrase using nano command

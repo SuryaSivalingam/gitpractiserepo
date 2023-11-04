@@ -1,0 +1,1 @@
+this is the text inside t6 file. Inserted this text phrase using vi command

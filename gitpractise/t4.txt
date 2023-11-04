@@ -1,0 +1,1 @@
+this is text phrase inside t4 file. Inserted phrase using nano command.
